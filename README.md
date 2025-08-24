@@ -9,7 +9,7 @@
 - Continuous Integration / Continuous Deployment (CI/CD)  
 - Programming Fundamentals (C#, JavaScript)
 - 📫 How to reach me https://www.linkedin.com/in/valeria-kalvacheva-4224621aa/ , Discord @vkalvacheva
-  📌 About Me
+- 📌 About Me
 Passionate about software quality and automation. I enjoy testing web applications, building frameworks, and contributing to open-source projects.
 
 <!---
