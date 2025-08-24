@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VKalvacheva,
     I'm a motivated QA Engineer in training, certified in Manual Testing and Automation Testing. 
 - 👀 I’m interested in 🧪 Manual Testing | 🤖 Test Automation | 🌐 API Testing | ⚡ CI/CD | 💻 Software Quality 
-  🛠️ Skills
+-🛠️ Skills
 - Manual Testing  
 - Automated Testing (Selenium, Playwright)  
 - API Testing (Postman, RestSharp)  
